@@ -1,7 +1,7 @@
 # CS612_CourseProject_RecommendationSystem
 Recommendation System: Implement a recommendation system using collaborative filtering or matrix factorization to suggest items to users.
 
-We have used collaborative filtering and non-negative matrix factorization methods on Hollywood movie data, which consists of 718 users who have rated 8927 movies. We have predicted the recommended movies for users using these two methods.
+We have used collaborative filtering and non-negative matrix factorization methods on movie data, which consists of 718 users who have rated 8927 movies. We have predicted the recommended movies for users using these two methods.
 
 Observations:
 RMSE:
