@@ -16,10 +16,13 @@ Other RMSE results:
 ![image](https://github.com/anjalicse001/CS612_CourseProject_RecommendationSystem/assets/26187367/50d514cf-1cba-4743-8679-a1a4588b735a)
 
 
+Contributing:
+Any contributions you make are greatly appreciated.
 
+All you simply need to do is:
 
-
-
-
-
-
+Fork the Project
+Create your Feature Branch (git checkout -b feature/AmazingFeature)
+Commit your Changes (git commit -m 'Add some AmazingFeature')
+Push to the Branch (git push origin feature/AmazingFeature)
+Open a Pull Request
